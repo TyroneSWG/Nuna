@@ -23,3 +23,6 @@
 
 # Special Thanks
 Aconite Malware
+
+# Notes
+Very poorly writen. Please feel free to take this and make it something your mother would love.
