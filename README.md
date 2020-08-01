@@ -16,7 +16,10 @@
 - SWG Specific Java IDE
 - something something dark side.
 
-
+# Requirements
+- VS 2019
+- Git
+- .NET Core 4.8
 
 # Special Thanks
 Aconite Malware
