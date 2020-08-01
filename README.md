@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://vignette.wikia.nocookie.net/starwars/images/a/a9/Nuna_CW.png">
+</p>
 # Nuna
 A really pointless launcher for SWG Source development.
 
