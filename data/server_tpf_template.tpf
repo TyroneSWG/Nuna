@@ -1,0 +1,12 @@
+#HEADER
+
+@base #BASEDEF
+
+@class #CLASSDEF #CLASsDEFVER
+
+@class #CLASSDEFBASE #CLASSDEFBASEVER
+
+sharedTemplate = "#SHARED_TEMPLATE"
+
+scripts = +["#SCRIPT"]
+
